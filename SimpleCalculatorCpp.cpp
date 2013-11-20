@@ -1,5 +1,5 @@
 //Simple command line Integer calculator
-//Josh Weaver, 11/19/2013
+//Josh Weaver, October 19th 2013
 
 #include <iostream>
 #include <cmath>
