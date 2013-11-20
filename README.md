@@ -1,4 +1,1 @@
-SimpleCalculator
-================
-
-A Simple Calculator
+A Simple command line calculator made in C++
